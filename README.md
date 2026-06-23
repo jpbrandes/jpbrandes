@@ -1,4 +1,4 @@
-## Olá, eu sou o João Pedro ! 
+## Olá, eu sou o João Pedro ! 👋
 
 Sou estudante de Engenharia na **Universidade Estadual de Ponta Grossa (UEPG)**. Apaixonado por tecnologia e programação.
 
