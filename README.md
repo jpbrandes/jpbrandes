@@ -14,9 +14,9 @@ Sou estudante de Engenharia na **Universidade Estadual de Ponta Grossa (UEPG)**.
 
 ### 🎨 Interesses e Hobbies
 
-- 🎵 **Música:** Sempre acompanhando meus estudos e códigos com uma boa trilha sonora.
+- 🎵 **Música:** Sempre acompanhando meus estudos e códigos com uma boa música.
 - 🐧 **Linux:** Entusiasta do ecossistema de código aberto e produtividade no terminal.
-- 📚 **Livros:** Gosto de ler tanto sobre tecnologia quanto literatura geral para expandir horizontes.
+- 📚 **Livros:** Gosto de ler tanto sobre tecnologia quanto literatura fantasiosa.
 
 ---
 
