@@ -1,28 +1,20 @@
-# Olá, me chamo João Pedro ! 👋
+# Hello, my name is João Pedro ! 👋
 
-Sou estudante de Engenharia de Computação na **Universidade Estadual de Ponta Grossa (UEPG)**. Sou apaixonado por tecnologia e programação.
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Graduando em Engenharia da Computação na **Universidade Estadual de Ponta Grossa**.
-- 💡 Buscando sempre aprender novas tecnologias e aplicá-las em projetos práticos.
-- 🎯 Meu objetivo atual é desenvolver minhas habilidades técnicas e ganhar cada vez mais experiência para me preparar para o mercado profissional.
+I am a Computer Engineering student at the State University of Ponta Grossa (UEPG). I am passionate about technology and programming.
 
 ---
 
-### 🎨 Interesses e Hobbies
+### 🚀 About me
 
-- 🎵 **Música:** Sempre acompanhando meus estudos e códigos com uma boa música.
-- 🐧 **Linux:** Entusiasta do ecossistema de código aberto e produtividade no terminal.
-- 📚 **Livros:** Gosto de ler tanto sobre tecnologia quanto literatura fantasiosa.
+- 🎓 Undergraduate in Computer Engineering at the State University of Ponta Grossa.
+- 💡 Always looking to learn new technologies and apply them to practical projects.
+- 🎯 My current goal is to develop my technical skills and gain more and more experience to prepare myself for the professional market.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
-Aqui estão as linguagens e ferramentas que estou utilizando nas disciplinas da UEPG:
+Here are the languages and tools that I am using in my courses at UEPG:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -31,7 +23,7 @@ Aqui estão as linguagens e ferramentas que estou utilizando nas disciplinas da 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📫 Formas de contato
+### 📫 Ways to contact me
 
 <p align="left">
   <a href="https://linkedin.com/in/jpbrandes" target="_blank">
