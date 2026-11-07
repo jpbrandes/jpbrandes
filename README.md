@@ -1,4 +1,4 @@
-# Hello, my name is João Pedro ! 
+# Hello, my name is João Pedro! 
 
 I am a Computer Engineering student at the State University of Ponta Grossa (UEPG). I am passionate about technology and programming.
 
