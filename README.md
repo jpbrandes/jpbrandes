@@ -1,18 +1,18 @@
-# Hello, my name is João Pedro ! 👋
+# Hello, my name is João Pedro ! 
 
 I am a Computer Engineering student at the State University of Ponta Grossa (UEPG). I am passionate about technology and programming.
 
 ---
 
-### 🚀 About me
+### About me
 
-- 🎓 Undergraduate in Computer Engineering at the State University of Ponta Grossa.
-- 💡 Always looking to learn new technologies and apply them to practical projects.
-- 🎯 My current goal is to develop my technical skills and gain more and more experience to prepare myself for the professional market.
+- Undergraduate in Computer Engineering at the State University of Ponta Grossa.
+- Always looking to learn new technologies and apply them to practical projects.
+- My current goal is to develop my technical skills and gain more and more experience to prepare myself for the professional market.
 
 ---
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 
 Here are the languages and tools that I am using in my courses at UEPG:
 
@@ -27,7 +27,7 @@ Here are the languages and tools that I am using in my courses at UEPG:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
-### 📫 Ways to contact me
+### Ways to contact me
 
 <p align="left">
   <a href="https://linkedin.com/in/jpbrandes" target="_blank">
